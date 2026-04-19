@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Local patches / working scratch (not part of submission)
+patch_*.py
+*_cell*.txt
+*_output.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep these:
+# !README.md
+# !LICENSE
+# !*.ipynb
+# !sample_report.html
+# !Screenshots/
